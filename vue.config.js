@@ -5,5 +5,5 @@
 // })
 module.exports = {
   // transpileDependencies: true,
-  publicPath: '/new-project/'
+  publicPath: '/new-project-1/'
 }
